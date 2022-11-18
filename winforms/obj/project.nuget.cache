@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QDkMo4CtXBMXCO2QPIEuXQgD8kXR7iKkMKy4SDyGViDsn8ztAw8UGa9n27+rNG+zWvqKupVAup173sL4DV50A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cross\\Source\\Repos\\winforms\\winforms\\winforms.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cross\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
